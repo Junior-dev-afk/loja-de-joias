@@ -4,6 +4,21 @@ ficticiaStore é uma aplicação web para uma loja de joias, desenvolvida com Re
 O projeto tem como objetivo fornecer uma experiência de compra interativa e eficiente, com uma interface de usuário
 moderna e uma API robusta para gerenciar produtos e pedidos.
 
+Como iniciar 
+
+    Backend
+
+        1 - entrar na pasta backend
+        2 - abrir o terminal na pasta
+        3 - digitar o comando " npm start " 
+
+    Frontend
+
+        1 - entrar na pasta frontend
+        2 - abrir o terminal na pasta
+        3 - digitar o comando " npm run dev "
+
+
 Tecnologias Utilizadas
 
     Frontend:
