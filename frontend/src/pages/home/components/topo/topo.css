@@ -1,0 +1,69 @@
+.container_topo {
+    width: 100%;
+    height: 70px;
+    background-color: var(--cor-principal);
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.container_input_topo {
+    width: 260px;
+    height: 40px;
+    background-color: transparent;
+    outline: 1px solid var(--cor-clara);
+    border-radius: 10px;
+    position: relative;
+    margin-right: 10px;
+}
+
+.button_input_pesquisa {
+    width: 40px;
+    height: 40px;
+    border: none;
+    background-color: transparent;
+}
+
+.input_input_pesquisa {
+    width: 190px;
+    height: 40px;
+    padding: 0px;
+    border: none;
+    background-color: transparent;
+    z-index: 0;
+    color: var(--cor-clara);
+    padding-left: 30px;
+}
+
+.input_input_pesquisa:focus{
+    border: none;
+    outline: none;
+}
+
+.label_input_pesquisa {
+    font-size: 14px;
+    position: absolute;
+    left: 30px;
+    top: calc(50% - 10px);
+    z-index: 1;
+   background-color: black;
+   padding-inline: 5px;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 10px;
+}
+
+.imagem-logo-header{
+    width: 40px;
+    height: 40px;
+}

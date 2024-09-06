@@ -1,0 +1,28 @@
+[
+
+    {
+        "classe" : "colares",
+        "nome" : "Colares",
+        "foto" : "colar.png"
+    },
+    {
+        "classe" : "aneis",
+        "nome" : "Aneis",
+        "foto" : "anel.png"
+    },
+    {
+        "classe" : "brincos",
+        "nome" : "Brincos",
+        "foto" : "brincos.png"
+    },
+    {
+        "classe" : "braceletes",
+        "nome" : "Braceletes",
+        "foto" : "bracelete.png"
+    },
+    {
+        "classe" : "tiaras",
+        "nome" : "Tiaras",
+        "foto" : "tiara.png"
+    }
+]

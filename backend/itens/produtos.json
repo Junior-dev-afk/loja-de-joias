@@ -1,0 +1,301 @@
+{
+
+
+    "itens_home" : [
+        {
+            "id" : "colar_1",
+            "nome" : "colar 1",
+            "descricao" : "colar bonito",
+            "valor" : "1.549.90",
+            "imagens" : [
+                "joia1.jpeg"
+            ]
+        },
+        {
+            "id" : "colar_2",
+            "nome" : "colar 2",
+            "descricao" : "colar bonito",
+            "valor" : "1.549.90",
+            "imagens" : [
+                "joia2.jpeg"
+            ]
+        },
+        {
+            "id" : "colar_3",
+            "nome" : "colar 3",
+            "descricao" : "colar bonito",
+            "valor" : "1.549.90",
+            "imagens" : [
+                "joia3.jpeg"
+            ]
+        },
+        {
+            "id" : "colar_4",
+            "nome" : "colar 4",
+            "descricao" : "colar bonito",
+            "valor" : "1.549.90",
+            "imagens" : [
+                "joia4.jpeg"
+            ]
+        },
+        {
+            "id" : "colar_1",
+            "nome" : "colar 1",
+            "descricao" : "colar bonito",
+            "valor" : "1.549.90",
+            "imagens" : [
+                "joia1.jpeg"
+            ]
+        },
+        {
+            "id" : "colar_2",
+            "nome" : "colar 2",
+            "descricao" : "colar bonito",
+            "valor" : "1.549.90",
+            "imagens" : [
+                "joia2.jpeg"
+            ]
+        },
+        {
+            "id" : "colar_3",
+            "nome" : "colar 3",
+            "descricao" : "colar bonito",
+            "valor" : "1.549.90",
+            "imagens" : [
+                "joia3.jpeg"
+            ]
+        },
+        {
+            "id" : "colar_4",
+            "nome" : "colar 4",
+            "descricao" : "colar bonito",
+            "valor" : "1.549.90",
+            "imagens" : [
+                "joia4.jpeg"
+            ]
+        },
+        {
+            "id" : "colar_5",
+            "nome" : "colar 5",
+            "descricao" : "colar bonito",
+            "valor" : "1.549.90",
+            "imagens" : [
+                "joia5.jpeg"
+            ]
+        },
+        {
+            "id" : "colar_6",
+            "nome" : "colar 6",
+            "descricao" : "colar bonito",
+            "valor" : "1.549.90",
+            "imagens" : [
+                "joia6.jpeg"
+            ]
+        },
+        {
+            "id" : "colar_5",
+            "nome" : "colar 5",
+            "descricao" : "colar bonito",
+            "valor" : "1.549.90",
+            "imagens" : [
+                "joia5.jpeg"
+            ]
+        },
+        {
+            "id" : "colar_6",
+            "nome" : "colar 6",
+            "descricao" : "colar bonito",
+            "valor" : "1.549.90",
+            "imagens" : [
+                "joia6.jpeg"
+            ]
+        },
+        {
+            "id" : "colar_7",
+            "nome" : "colar 7",
+            "descricao" : "colar bonito",
+            "valor" : "1.549.90",
+            "imagens" : [
+                "joia7.jpeg"
+            ]
+        }
+    ],
+
+
+    "colares" : [
+
+        {
+            "id" : "colar_1",
+            "nome" : "colar 1",
+            "descricao" : "colar bonito",
+            "valor" : "1.549.90",
+            "imagens" : [
+                "joia1.jpeg"
+            ]
+        },
+        {
+            "id" : "colar_1",
+            "nome" : "colar 1",
+            "descricao" : "colar bonito",
+            "valor" : "1.549.90",
+            "imagens" : [
+                "joia3.jpeg"
+            ]
+        },
+        {
+            "id" : "colar_1",
+            "nome" : "colar 1",
+            "descricao" : "colar bonito",
+            "valor" : "549.90",
+            "imagens" : [
+                "joia4.jpeg"
+            ]
+        },
+        {
+            "id" : "colar_1",
+            "nome" : "colar 1",
+            "descricao" : "colar bonito",
+            "valor" : "3.549.90",
+            "imagens" : [
+                "joia5.jpeg"
+            ]
+        }
+        
+
+    ],
+    "aneis" : [
+        {
+            "id" : "anel",
+            "nome" : "anel 1",
+            "descricao" : "anel bonito",
+            "valor" : "549.90",
+            "imagens" : [
+                "anel.jpeg"
+            ]
+        },
+        {
+            "id" : "anel2",
+            "nome" : "anel 2",
+            "descricao" : "anel bonito",
+            "valor" : "1.549.90",
+            "imagens" : [
+                "anel2.jpeg"
+            ]
+        },
+        {
+            "id" : "anel3",
+            "nome" : "anel3 1",
+            "descricao" : "anel bonito",
+            "valor" : "3.549.90",
+            "imagens" : [
+                "anel3.jpeg"
+            ]
+        }
+    ],
+    "brincos" : [
+        {
+            "id" : "brinco_1",
+            "nome" : "brinco 1",
+            "descricao" : "brinco bonito",
+            "valor" : "549.90",
+            "imagens" : [
+                "brinco1.jpeg"
+            ]
+        },
+        {
+            "id" : "brinco_2",
+            "nome" : "brinco 2",
+            "descricao" : "brinco bonito",
+            "valor" : "949.90",
+            "imagens" : [
+                "brinco2.jpeg"
+            ]
+        },
+        {
+            "id" : "brinco_3",
+            "nome" : "brinco 3",
+            "descricao" : "brinco bonito",
+            "valor" : "1.549.90",
+            "imagens" : [
+                "brinco3.jpeg"
+            ]
+        }
+    ],
+    "braceletes" : [
+        {
+            "id" : "bracelete_1",
+            "nome" : "bracelete 1",
+            "descricao" : "bracelete bonito",
+            "valor" : "500,00",
+            "imagens" : [
+                "joia2.jpeg"
+            ]
+        },
+        {
+            "id" : "bracelete_1",
+            "nome" : "bracelete 1",
+            "descricao" : "bracelete bonito",
+            "valor" : "1.000,00",
+            "imagens" : [
+                "joia2.jpeg"
+            ]
+        },
+        {
+            "id" : "bracelete_1",
+            "nome" : "bracelete 1",
+            "descricao" : "bracelete bonito",
+            "valor" : "1.500,00",
+            "imagens" : [
+                "joia2.jpeg"
+            ]
+        },
+        {
+            "id" : "bracelete_1",
+            "nome" : "bracelete 1",
+            "descricao" : "bracelete bonito",
+            "valor" : "2.000,00",
+            "imagens" : [
+                "joia2.jpeg"
+            ]
+        },
+        {
+            "id" : "bracelete_1",
+            "nome" : "bracelete 1",
+            "descricao" : "bracelete bonito",
+            "valor" : "2.500,00",
+            "imagens" : [
+                "joia2.jpeg"
+            ]
+        }
+    ],
+    "tiaras" : [
+        {
+            "id" : "tiara_1",
+            "nome" : "tiara 1",
+            "descricao" : "tiara bonito",
+            "valor" : "500,00",
+            "imagens" : [
+                "tiara1.jpeg"
+            ]
+        },
+        {
+            "id" : "tiara_3",
+            "nome" : "tiara 3",
+            "descricao" : "tiara bonito",
+            "valor" : "1.000,00",
+            "imagens" : [
+                "tiara2.jpeg"
+            ]
+        },
+        {
+            "id" : "tiara_1",
+            "nome" : "tiara 1",
+            "descricao" : "tiara bonito",
+            "valor" : "1.500,00",
+            "imagens" : [
+                "tiara3.jpeg"
+            ]
+        }
+    ]
+
+}

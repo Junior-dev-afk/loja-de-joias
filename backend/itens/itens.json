@@ -1,0 +1,44 @@
+[
+    {
+        "id" : "1",
+        "nome" : "Item1",
+        "valor" : "11,55",
+        "foto" : "joia1.jpeg"
+    },
+    {
+        "id" : "2",
+        "nome" : "Item2",
+        "valor" : "11,55",
+        "foto" : "joia2.jpeg"
+    },
+    {
+        "id" : "3",
+        "nome" : "Item3",
+        "valor" : "11,55",
+        "foto" : "joia3.jpeg"
+    },
+    {
+        "id" : "4",
+        "nome" : "Item4",
+        "valor" : "11,55",
+        "foto" : "joia4.jpeg"
+    },
+    {
+        "id" : "5",
+        "nome" : "Item5",
+        "valor" : "11,55",
+        "foto" : "joia5.jpeg"
+    },
+    {
+        "id" : "6",
+        "nome" : "Item6",
+        "valor" : "11,55",
+        "foto" : "joia6.jpeg"
+    },
+    {
+        "id" : "7",
+        "nome" : "Item7",
+        "valor" : "11,55",
+        "foto" : "joia7.jpeg"
+    }
+]
