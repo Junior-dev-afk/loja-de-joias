@@ -44,7 +44,11 @@ function Sugestoes () {
                 itens.map((item, i) => {
                     if ( i >= index && i < index+quantidadeItens ) {
                         return (                
-                            <div id={item.id} className="iten_destaque_home">
+                            <div id={item.id}
+                            onClick={
+                                () => window.location.href = `${window.location.origin}/item/${item.id}`
+                            }
+                            className="iten_destaque_home">
                                 <img src={item.imagens[0]} className="imagem_item_destaque_home" />
                             </div>
                         )

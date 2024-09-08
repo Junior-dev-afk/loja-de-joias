@@ -12,7 +12,6 @@ const http = configs.server.http.backend
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-const file_data = join(__dirname, "../itens/itens.json") 
 const file_tipo_itens = join(__dirname, "../itens/tipos.json")
 const file_produtos = join(__dirname, "../itens/produtos.json")
 
@@ -94,6 +93,31 @@ class Itens {
         resultado = parseInt(resultado)
 
         return resultado
+
+    }
+
+    async getItemFromID(id) {
+
+        const all_items = await this.getAllProducts()        
+
+        for (const key of Object.keys(all_items)) {
+
+            let item = all_items[key].find(item => item.id == id);   
+
+            if ( item != undefined ) {
+                item.imagens = item.imagens.map(imagem => {
+                    return `${http}://${host}:${port}/public/images/${imagem}`
+                })
+                
+                if (item) {
+                    return item; 
+                }
+            }
+
+        }        
+        
+        return false;
+    
 
     }
 

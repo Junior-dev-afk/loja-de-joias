@@ -8,7 +8,9 @@
             "descricao" : "colar bonito",
             "valor" : "1.549.90",
             "imagens" : [
-                "joia1.jpeg"
+                "joia1.jpeg",
+                "joia2.jpeg",
+                "joia3.jpeg"
             ]
         },
         {
@@ -125,7 +127,7 @@
     "colares" : [
 
         {
-            "id" : "colar_1",
+            "id" : "colar_5",
             "nome" : "colar 1",
             "descricao" : "colar bonito",
             "valor" : "1.549.90",
@@ -134,7 +136,7 @@
             ]
         },
         {
-            "id" : "colar_1",
+            "id" : "colar_2",
             "nome" : "colar 1",
             "descricao" : "colar bonito",
             "valor" : "1.549.90",
@@ -143,7 +145,7 @@
             ]
         },
         {
-            "id" : "colar_1",
+            "id" : "colar_3",
             "nome" : "colar 1",
             "descricao" : "colar bonito",
             "valor" : "549.90",
@@ -157,6 +159,8 @@
             "descricao" : "colar bonito",
             "valor" : "3.549.90",
             "imagens" : [
+                "joia5.jpeg",
+                "joia5.jpeg",
                 "joia5.jpeg"
             ]
         }
@@ -170,6 +174,7 @@
             "descricao" : "anel bonito",
             "valor" : "549.90",
             "imagens" : [
+                "anel.jpeg",
                 "anel.jpeg"
             ]
         },

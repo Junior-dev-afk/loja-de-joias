@@ -110,6 +110,20 @@ class FetchGet {
               
         })
 
+        app.get("/getItemFromId/:id", async (req, res) => {
+
+            const { id } = req.params
+
+            let item_id = await item.getItemFromID(id)     
+            
+            if ( item_id == false ) {
+                return res.status(404).json({error : true})
+            }
+
+            res.status(200).json(item_id)
+              
+        })
+
     }
 
 }

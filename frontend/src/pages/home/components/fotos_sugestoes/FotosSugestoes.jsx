@@ -34,11 +34,10 @@ function FotosSugestoes () {
     }, tempo_passagem_imagem)
 
 
-    const imagem_url = lista_itens.length > 0 ? lista_itens[index].imagens[0] : "#"
-    const id = lista_itens
-
-    console.log(id);    
+    const imagem_url = lista_itens.length > 0 ? lista_itens[index].imagens[0] : "#"  
+    const id = ( lista_itens[index] ) ? ( lista_itens[index].id ) : "none"
     
+    console.log(`${window.location.origin}/item/${id}`)
 
     return (
 
@@ -46,7 +45,11 @@ function FotosSugestoes () {
 
             <ButtonLeft setIndex={setIndex} index={index} quantidade={quantidade}/>
 
-            <img className="imagem-sugestoes-fotos" src={
+            <img onClick={
+                () => {
+                    window.location.href = `${window.location.origin}/item/${id}`
+                }
+            } className="imagem-sugestoes-fotos" src={
                 imagem_url
             }/>
 
